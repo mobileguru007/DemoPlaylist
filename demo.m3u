@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="10BoldSydney.au" tvg-logo="https://i.imgur.com/2xglh33.png" group-title="Lifestyle;Relax",10 Bold (720p) [Geo-blocked]
+https://i.mjh.nz/10bold-nsw.m3u8
+#EXTINF:-1 tvg-id="10BoldAdelaide.au" tvg-logo="https://i.imgur.com/2xglh33.png" group-title="Lifestyle;Relax",10 Bold Adelaide (1080p)
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-logo="https://i.imgur.com/X2qhBpO.png" group-title="Relax",Adult Swim Off The Air (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream_de.m3u8
+#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-logo="https://i.imgur.com/LMHrQJu.png" group-title="Relax",Better Life Nature Channel (480p)
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 tvg-id="FireplaceLounge.us" tvg-logo="https://i.imgur.com/1VZZCZU.jpg" group-title="Relax",Fireplace Lounge (2160p)
+https://d300k472vyqakg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-aijrtvzii4xsm-ssai-prd/v1/channel/FIREPLACE_4K_2022/index.m3u8
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Relax",Myzen TV [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="voddemo1" tvg-name="Demo 1" tvg-logo="https://github.com/mobileguru007/DemoPlaylist/blob/main/icon.png" group-title="Vod Demo", Demo 1
+https://github.com/mobileguru007/DemoPlaylist/blob/main/1.mp4
+#EXTINF:-1 tvg-id="voddemo2" tvg-name="Demo 2" tvg-logo="https://github.com/mobileguru007/DemoPlaylist/blob/main/icon.png" group-title="Vod Demo", Demo 2
+https://github.com/mobileguru007/DemoPlaylist/blob/main/2.mp4
+#EXTINF:-1 tvg-id="voddemo3" tvg-name="Demo 3" tvg-logo="https://github.com/mobileguru007/DemoPlaylist/blob/main/icon.png" group-title="Vod Demo", Demo 3
+https://github.com/mobileguru007/DemoPlaylist/blob/main/3.mp4
+#EXTINF:-1 tvg-id="voddemo4" tvg-name="Demo 4" tvg-logo="https://github.com/mobileguru007/DemoPlaylist/blob/main/icon.png" group-title="Vod Demo", Demo 4
+https://github.com/mobileguru007/DemoPlaylist/blob/main/6.mp4
+#EXTINF:-1 tvg-id="voddemo5" tvg-name="Demo 5" tvg-logo="https://github.com/mobileguru007/DemoPlaylist/blob/main/icon.png" group-title="Vod Demo", Demo 5
+https://github.com/mobileguru007/DemoPlaylist/blob/main/4.mp4
+#EXTINF:-1 tvg-id="voddemo6" tvg-name="Demo 6" tvg-logo="https://github.com/mobileguru007/DemoPlaylist/blob/main/icon.png" group-title="Vod Demo", Demo 6
+https://github.com/mobileguru007/DemoPlaylist/blob/main/1.mp4
+#EXTINF:-1 tvg-id="seriesdemo1" tvg-name="Demo1S01E01" tvg-logo="https://github.com/mobileguru007/DemoPlaylist/blob/main/icon.png" group-title="Series Demo"
+https://github.com/mobileguru007/DemoPlaylist/blob/main/5.mp4
+#EXTINF:-1 tvg-id="seriesdemo1" tvg-name="Demo1S01E02" tvg-logo="https://github.com/mobileguru007/DemoPlaylist/blob/main/icon.png" group-title="Series Demo"
+https://github.com/mobileguru007/DemoPlaylist/blob/main/7.mp4
+#EXTINF:-1 tvg-id="seriesdemo1" tvg-name="Demo1S01E03" tvg-logo="https://github.com/mobileguru007/DemoPlaylist/blob/main/icon.png" group-title="Series Demo"
+https://github.com/mobileguru007/DemoPlaylist/blob/main/8.mp4
+#EXTINF:-1 tvg-id="seriesdemo1" tvg-name="Demo1S02E01" tvg-logo="https://github.com/mobileguru007/DemoPlaylist/blob/main/icon.png" group-title="Series Demo"
+https://github.com/mobileguru007/DemoPlaylist/blob/main/9.mp4
+#EXTINF:-1 tvg-id="seriesdemo2" tvg-name="Demo2S01E01" tvg-logo="https://github.com/mobileguru007/DemoPlaylist/blob/main/icon.png" group-title="Series Demo"
+https://github.com/mobileguru007/DemoPlaylist/blob/main/2.mp4
+#EXTINF:-1 tvg-id="seriesdemo2" tvg-name="Demo2S01E02" tvg-logo="https://github.com/mobileguru007/DemoPlaylist/blob/main/icon.png" group-title="Series Demo"
+https://github.com/mobileguru007/DemoPlaylist/blob/main/4.mp4 
